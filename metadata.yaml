@@ -1,0 +1,50 @@
+_repo: The-King-s-Men--A-Tale-of-To-morrow_18960
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Stimson, Frederic Jesup
+    aliases:
+    - Stimson, Frederic J. (Frederic Jesup)
+    - J. S. of Dale
+    - Stimson, F. J. (Frederic Jesup)
+    birthdate: 1855
+    deathdate: 1943
+    gutenberg_agent_id: '8370'
+    url: http://www.gutenberg.org/2009/agents/8370
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Jesup_Stimson
+  - agent_name: Wheelwright, John T. (John Tyler)
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '8372'
+    url: http://www.gutenberg.org/2009/agents/8372
+  - agent_name: O'Reilly, John Boyle
+    birthdate: 1844
+    deathdate: 1890
+    gutenberg_agent_id: '8369'
+    url: http://www.gutenberg.org/2009/agents/8369
+    wikipedia: http://en.wikipedia.org/wiki/John_Boyle_O'Reilly
+  - agent_name: Grant, Robert
+    birthdate: 1852
+    deathdate: 1940
+    gutenberg_agent_id: '2515'
+    url: http://www.gutenberg.org/2009/agents/2515
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Grant_%28novelist%29
+description: ''
+gutenberg_issued: '2006-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Great Britain -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Political fiction'
+title: 'The King''s Men: A Tale of To-morrow'
+url: http://www.gutenberg.org/ebooks/18960
