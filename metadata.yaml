@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2515
     wikipedia: http://en.wikipedia.org/wiki/Robert_Grant_%28novelist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18960#The-King-s-Men--A-Tale-of-To-morrow
 gutenberg_issued: '2006-08-01'
 gutenberg_type: Text
 identifiers:
